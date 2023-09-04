@@ -1,7 +1,6 @@
 body {
     font-family: "Open Sans", sans-serif;
     margin: 0;
-    color: #65916F;
 }
 
 .container {
@@ -12,9 +11,9 @@ body {
 
 header {
     text-align: center;
-    background-color: #121312;
+    background-color: #65916F;
     padding: 20px 10px;
-    color: #65916F;
+    color: #FFF;
 }
 
 #img-div {
