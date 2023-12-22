@@ -24,6 +24,7 @@ header {
     max-width: 100%;
     display: block;
     margin: 5px;
+    border-radius: 5px;
 }
 
 figcaption {
